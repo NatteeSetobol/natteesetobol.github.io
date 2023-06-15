@@ -5,6 +5,7 @@ const NavBar:React.FC<any> = () => {
 
 	return (
 		<div className="navbar">
+			testing
 		</div>
 	)
 }
