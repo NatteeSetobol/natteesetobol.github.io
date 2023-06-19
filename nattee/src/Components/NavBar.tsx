@@ -6,7 +6,7 @@ const NavBar:React.FC<any> = () => {
 	return (
 		<div className="navbar">
 			<span>
-				<img src="cat.png">
+				<img src="cat.png" />
 			</span>
 			<span>
 			</span>
