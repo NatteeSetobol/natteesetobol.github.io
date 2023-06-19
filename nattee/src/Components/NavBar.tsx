@@ -5,7 +5,11 @@ const NavBar:React.FC<any> = () => {
 
 	return (
 		<div className="navbar">
-			testing
+			<span>
+				<img src="cat.png">
+			</span>
+			<span>
+			</span>
 		</div>
 	)
 }
